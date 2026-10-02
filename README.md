@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0796-rotate-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String Matching
@@ -47,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
