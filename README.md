@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
 | [0233-number-of-digit-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0233-number-of-digit-one/) | Hard |
+| [0263-ugly-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0263-ugly-number/) | Easy |
 | [0343-integer-break](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0343-integer-break/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Dynamic Programming
