@@ -9,6 +9,7 @@
 | [0412-fizz-buzz](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0412-fizz-buzz/) | Easy |
 | [0796-rotate-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
