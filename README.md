@@ -23,6 +23,7 @@
 | [0343-integer-break](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0343-integer-break/) | Medium |
 | [0412-fizz-buzz](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
