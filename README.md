@@ -55,10 +55,12 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
+| [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,8 +77,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 <!---LeetCode Topics End-->
