@@ -23,6 +23,7 @@
 | [0263-ugly-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0263-ugly-number/) | Easy |
 | [0343-integer-break](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0343-integer-break/) | Medium |
 | [0412-fizz-buzz](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0412-fizz-buzz/) | Easy |
+| [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0233-number-of-digit-one/) | Hard |
 | [0343-integer-break](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0343-integer-break/) | Medium |
+| [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
