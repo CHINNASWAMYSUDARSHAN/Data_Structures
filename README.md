@@ -30,6 +30,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0233-number-of-digit-one/) | Hard |
 | [0343-integer-break](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
@@ -48,6 +49,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
 | [1929-concatenation-of-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1929-concatenation-of-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
