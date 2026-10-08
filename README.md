@@ -63,6 +63,7 @@
 | [0041-first-missing-positive](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
+| [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1929-concatenation-of-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
@@ -92,17 +93,20 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0041-first-missing-positive/) | Hard |
+| [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -120,4 +124,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
