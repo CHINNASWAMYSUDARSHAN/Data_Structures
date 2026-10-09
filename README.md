@@ -10,6 +10,7 @@
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## String Matching
