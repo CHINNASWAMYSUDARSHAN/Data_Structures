@@ -28,6 +28,7 @@
 | [0412-fizz-buzz](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0412-fizz-buzz/) | Easy |
 | [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1323-maximum-69-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1323-maximum-69-number/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
@@ -134,5 +135,6 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1323-maximum-69-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1323-maximum-69-number/) | Easy |
 | [1881-maximum-value-after-insertion](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1881-maximum-value-after-insertion/) | Medium |
 <!---LeetCode Topics End-->
