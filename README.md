@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0412-fizz-buzz/) | Easy |
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0796-rotate-string/) | Easy |
@@ -61,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0191-number-of-1-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@
 | [0075-sort-colors](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
+| [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -115,6 +118,7 @@
 | [0041-first-missing-positive](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0041-first-missing-positive/) | Hard |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
