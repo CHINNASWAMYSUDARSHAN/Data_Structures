@@ -16,6 +16,7 @@
 | [1881-maximum-value-after-insertion](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1881-maximum-value-after-insertion/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2716-minimize-string-length](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2716-minimize-string-length/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
+| [2716-minimize-string-length](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2716-minimize-string-length/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
