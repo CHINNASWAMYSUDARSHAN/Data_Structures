@@ -33,6 +33,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1323-maximum-69-number/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [3099-harshad-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3099-harshad-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
