@@ -15,17 +15,14 @@ class Solution {
     //   }  
     //     return true;
     
-    // the sum from 97 to 122 is 2847 by using formula sum=(n/2)(a+l)
     HashSet<Character> set=new  HashSet<>();
-    int sum=0;
     for(int i=0;i<sentence.length();i++){
         char ch=sentence.charAt(i);
         if(!set.contains(ch)){
             set.add(ch);
-            sum+=ch;
         }
     }
-    return sum==2847;
+    return set.size()==26;
     }
 
 }
