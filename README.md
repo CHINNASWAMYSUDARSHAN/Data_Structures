@@ -83,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1470-shuffle-the-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1929-concatenation-of-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1929-concatenation-of-array/) | Easy |
@@ -195,4 +196,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
