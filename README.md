@@ -12,6 +12,7 @@
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1881-maximum-value-after-insertion](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1881-maximum-value-after-insertion/) | Medium |
@@ -82,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1470-shuffle-the-array/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1929-concatenation-of-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
