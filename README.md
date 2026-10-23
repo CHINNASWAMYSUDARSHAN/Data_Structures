@@ -83,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1470-shuffle-the-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1929-concatenation-of-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -190,4 +191,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
