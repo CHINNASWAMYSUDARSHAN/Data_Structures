@@ -14,6 +14,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1881-maximum-value-after-insertion](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1881-maximum-value-after-insertion/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -133,6 +134,7 @@
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
@@ -196,6 +198,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0075-sort-colors/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
