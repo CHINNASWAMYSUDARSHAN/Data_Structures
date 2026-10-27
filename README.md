@@ -70,6 +70,7 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
+| [0476-number-complement](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0476-number-complement/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
