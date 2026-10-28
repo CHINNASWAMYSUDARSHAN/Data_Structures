@@ -63,6 +63,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -75,6 +76,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0041-first-missing-positive/) | Hard |
@@ -119,6 +121,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
