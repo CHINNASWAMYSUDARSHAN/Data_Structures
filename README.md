@@ -38,6 +38,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1323-maximum-69-number/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3099-harshad-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3099-harshad-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -96,6 +97,7 @@
 | [1929-concatenation-of-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -153,12 +155,14 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2716-minimize-string-length](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2716-minimize-string-length/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +227,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1095-find-in-mountain-array/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 <!---LeetCode Topics End-->
