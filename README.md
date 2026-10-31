@@ -98,6 +98,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -231,4 +232,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
