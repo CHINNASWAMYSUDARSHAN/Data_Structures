@@ -18,6 +18,7 @@
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1881-maximum-value-after-insertion](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1881-maximum-value-after-insertion/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2716-minimize-string-length](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2716-minimize-string-length/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3280-convert-date-to-binary/) | Easy |
