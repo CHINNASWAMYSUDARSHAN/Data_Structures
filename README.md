@@ -72,6 +72,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0476-number-complement/) | Easy |
@@ -85,6 +86,7 @@
 | [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0075-sort-colors/) | Medium |
+| [0136-single-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
