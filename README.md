@@ -34,6 +34,7 @@
 | [0263-ugly-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0263-ugly-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0319-bulb-switcher/) | Medium |
 | [0343-integer-break](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0343-integer-break/) | Medium |
+| [0367-valid-perfect-square](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0412-fizz-buzz/) | Easy |
 | [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -133,6 +134,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0367-valid-perfect-square](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0367-valid-perfect-square/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1095-find-in-mountain-array/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
