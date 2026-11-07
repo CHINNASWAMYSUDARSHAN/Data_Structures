@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0189-rotate-array/) | Medium |
 | [0233-number-of-digit-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0233-number-of-digit-one/) | Hard |
 | [0263-ugly-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0263-ugly-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0319-bulb-switcher/) | Medium |
@@ -89,6 +90,7 @@
 | [0075-sort-colors](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
@@ -112,6 +114,7 @@
 | [0075-sort-colors](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
