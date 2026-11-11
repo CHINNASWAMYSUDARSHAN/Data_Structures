@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -83,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0041-first-missing-positive/) | Hard |
@@ -254,4 +256,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
