@@ -99,6 +99,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -158,6 +159,7 @@
 | [0217-contains-duplicate](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -171,6 +173,7 @@
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
