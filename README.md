@@ -47,6 +47,7 @@
 | [3099-harshad-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3099-harshad-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
