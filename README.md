@@ -103,6 +103,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -180,6 +181,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -277,12 +279,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
