@@ -76,6 +76,7 @@
 | [0169-majority-element](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -167,6 +169,7 @@
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -233,6 +236,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,4 +298,20 @@
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
