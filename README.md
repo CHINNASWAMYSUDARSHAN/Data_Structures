@@ -44,6 +44,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1323-maximum-69-number/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3099-harshad-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3099-harshad-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -195,6 +196,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2540-minimum-common-value](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2540-minimum-common-value/) | Easy |
 | [2716-minimize-string-length](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2716-minimize-string-length/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
