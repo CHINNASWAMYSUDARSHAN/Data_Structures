@@ -77,6 +77,7 @@
 | [0169-majority-element](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
@@ -168,6 +170,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
@@ -183,6 +186,7 @@
 | [0169-majority-element](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -203,6 +207,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -238,11 +243,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +314,7 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
