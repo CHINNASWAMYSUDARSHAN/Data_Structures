@@ -54,6 +54,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0233-number-of-digit-one/) | Hard |
 | [0343-integer-break](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0343-integer-break/) | Medium |
@@ -95,6 +96,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
@@ -131,6 +133,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -141,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0042-trapping-rain-water/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,4 +331,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0912-sort-an-array/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
