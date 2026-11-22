@@ -108,6 +108,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -273,10 +274,12 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
