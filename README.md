@@ -101,6 +101,7 @@
 | [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0075-sort-colors/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0169-majority-element/) | Easy |
@@ -189,6 +190,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0229-majority-element-ii/) | Medium |
@@ -339,4 +341,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0042-trapping-rain-water/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
