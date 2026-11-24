@@ -56,6 +56,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0233-number-of-digit-one/) | Hard |
 | [0343-integer-break](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1025-divisor-game/) | Easy |
@@ -101,6 +102,7 @@
 | [0053-maximum-subarray](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0075-sort-colors/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -247,6 +249,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1323-maximum-69-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1323-maximum-69-number/) | Easy |
 | [1881-maximum-value-after-insertion](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1881-maximum-value-after-insertion/) | Medium |
 ## Heap (Priority Queue)
