@@ -49,6 +49,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3099-harshad-number](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3099-harshad-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3360-stone-removal-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Dynamic Programming
@@ -158,6 +159,7 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1929-concatenation-of-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/3360-stone-removal-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
