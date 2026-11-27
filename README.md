@@ -116,6 +116,7 @@
 | [0347-top-k-frequent-elements](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -204,6 +205,7 @@
 | [0389-find-the-difference](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0706-design-hashmap/) | Easy |
@@ -282,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/CHINNASWAMYSUDARSHAN/Data_Structures/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
